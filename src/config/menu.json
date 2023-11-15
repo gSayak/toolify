@@ -1,0 +1,54 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Trending",
+      "url": "/blog"
+    },
+    
+    {
+      "name": "Categories",
+      "url": "/categories"
+    },
+    {
+      "name": "More",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Submit",
+          "url": "/contact"
+        },
+        {
+          "name": "Extra",
+          "url": "/authors"
+        },
+        {
+          "name": "Categories",
+          "url": "/categories"
+        },
+        {
+          "name": "Search",
+          "url": "/search"
+        },
+        {
+          "name": "404",
+          "url": "/404"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "Elements",
+      "url": "/elements"
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "/404"
+    }
+  ]
+}
