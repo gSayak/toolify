@@ -6,7 +6,7 @@
     },
     {
       "name": "Trending",
-      "url": "/blog"
+      "url": "/trending"
     },
     
     {
@@ -20,7 +20,7 @@
       "children": [
         {
           "name": "Submit",
-          "url": "/contact"
+          "url": "/submit"
         },
         {
           "name": "Extra",
